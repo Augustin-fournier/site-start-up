@@ -1,0 +1,5 @@
+.banner {
+	background-image:url("../../image/backgroundpicture.jpg");
+	background-size: cover;
+	height: 500px;
+}

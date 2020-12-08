@@ -1,0 +1,9 @@
+.list-inline i{
+	color: black;
+}
+i: hover{
+  color:red;
+} 
+h2{
+	text-algn:center;
+}
